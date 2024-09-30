@@ -1,0 +1,34 @@
+<html>
+<head> <title> Reflection </title> </head>
+<body align="center">
+<font face="Georgia" color="Midnight">
+<h1> <font face="Lucida Handwriting"> Reflection </font> </h1>
+<p> <font size="2" color="DarkSlateBlue"> <b>  ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ </b> </font> </p>
+<style>
+body {
+  background-image: url('elysium bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
+<p> Reflecting back on this quarter, there's certainly a lot to say. It was the first quarter of grade nine, along with that, a new set of challenges and skills to learn. We started with XHTML, a stricter version of the programming language we grew to utilize frequently, HTML, which was followed by the addition of links and creation of lists, tables, and forms using HTML. We performed hands-on a plenty, accompanied by multiple written works, seatworks, performance tasks, quizzes and tests. Some lessons and activities, were easy or moderate in difficulty, while others were more difficult. We had hardships and triumphs, peace and chaos, adb everything else in between. Overall, this quarter was an interesting one, one that intices students to learn more and challenges their skills about their prior knowledge, and I'm glad to say that I myself am looking forward to future quarters and the lessons of knowledge about ICT they hold. </p> 
+<p> <font size="2" color="DarkSlateBlue"> <b>  ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ </b> </font> </p>
+<br> <br> <br> <br> <br> <br> <br>
+<a href="Feedback.html"> Click here to give your feedback! </a>
+
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+<h3> Navigate your way through here! </h3>
+<table align="center">
+<th> <a href="E-PORTFOLIO.html"> <img src="hestia.jpg" alt="hestia.jpg" height="150" width="150"> </a> </th>
+<th> <a href="About Me.html"> <img src="water nya chibi.jpg" alt="water nya chibi drawing" height="150" width="150"> </a> </th>
+<th> <a href="Activities.html"> <img src="annabeth chibi.jpg" alt="annabeth chibi drawing" height="150" width="150"> </a> </th>
+<th> <a href="Browser and Notepad Outputs.html"> <img src="athena chibi.jpg" alt="athena chibi drawing" height="150" width="150"> </a> </th>
+<th> <a href="Reflection.html"> <img src="bianca chibi.jpg" alt="bianca chibi drawing" height="150" width="150"> </a> </th>
+</table>
+</font>
+</body>
+</html>
+
+

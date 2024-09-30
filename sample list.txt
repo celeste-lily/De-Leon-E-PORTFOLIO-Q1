@@ -1,0 +1,22 @@
+<html>
+<head> <title> Lists </title> </head>
+<body bgcolor="e7dff9">
+<h1> My Favorite Songs </h1>
+<br>
+<p> : ̗̀➛ From EPIC the Musical </p>
+<ol type="A"> 
+<li> God Games </li> 
+<li> Warrior of the Mind </li>
+<li> Ruthlessness </li>
+<li> No Longer You </li>
+<li> Thunder Bringer </li> </ol>
+<br>
+<p> : ̗̀➛ From folklore </p>
+<ul type="circle">
+<li> cardigan </li>
+<li> this is me trying </li>
+<li> august </li> </ul>
+
+
+</body>
+</html>

@@ -1,0 +1,35 @@
+<html>
+<head> <title> Activities </title> </head>
+<body align="center">
+<font face="Georgia" color="Midnight">
+<h1> <font face="Lucida Handwriting"> Activities and Events </font> </h1>
+<p> <font size="2" color="DarkSlateBlue"> <b>  ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ </b> </font> </p>
+<style>
+body {
+  background-image: url('night bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</font>
+</body>
+</html>
