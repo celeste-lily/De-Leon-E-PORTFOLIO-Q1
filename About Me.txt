@@ -96,7 +96,7 @@ body {
 <img src="friends.jpg" alt="friends.jpg" height="130" width="170">
 <p align="center"> <font size="2">  ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ </font> </p> 
 <li> Storywriting </li>
-<img src="story.jpg" alt="story.JPG" height="40" width="200" >
+<img src="story.JPG" alt="story.JPG" height="40" width="200" >
 <p align="center"> <font size="2">  ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ </font> </p> 
 <li> Video Editing and Animating </li>
 <video width="320" height="240" controls>
