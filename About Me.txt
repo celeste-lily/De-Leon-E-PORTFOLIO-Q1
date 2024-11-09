@@ -25,7 +25,7 @@ body {
 <td align="justify"> 
 
 <ul>
-<img src="me.jpg" alt="Zatee De Leon.jpg" height="115" width="130" align="right">
+<img src="me.JPG" alt="Zatee De Leon.jpg" height="115" width="130" align="right">
 <li> My Name: Zatee Louise E. De Leon </li>
 <li> My Nickname: Zatee </li> 
 <ul type="circle"> <li> To your right, is an actual picture of me in real life. </li> </ul> </ul>
