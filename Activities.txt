@@ -1,5 +1,5 @@
 <html>
-<head> <title> Activities </title> </head>
+<head> <title> Activities </title> 
 <body align="center">
 <font face="Georgia" color="Midnight">
 <h1> <font face="Lucida Handwriting"> Activities and Events </font> </h1>
@@ -11,7 +11,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
-</style>
+</style> </head>
 <table bgcolor="e8e8e8" border="1" align="center">
 <tr>
 <th> School Activities and Events </th>
