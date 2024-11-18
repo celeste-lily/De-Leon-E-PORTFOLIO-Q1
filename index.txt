@@ -10,7 +10,8 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
-</style>
+</style> </head>
+
 
 <font face="Georgia" color="Midnight" size="4">
 
