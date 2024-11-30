@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head> <title> Browser Outputs </title>
+
+<style type="text/css">
+
+body {
+  background-image: url('orange sky.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.audio {
+    text-align: center;
+  }
+
+
+</style>
+
+</head>
+
+<body align="center">
+<font face="Georgia" color="Midnight" size="4">
+<table border="1" align="center" bgcolor="#ebe7bf" style="width:55%;">
+<tr>
+<th> <h1> <font face="Lucida Handwriting"> Browser Outputs! </font> <h1> </th> </tr>
+
+<tr>
+<th> While you scroll through this page, listen to this music! 
+<p> <font size="2"> (credit: Suffering from EPIC the Musical, by Jorge Rivera-Herrans and Anna Lea)
+<div class="audio">
+<audio controls>
+<source src="Suffering.mp3" type="audio/mpeg">
+</audio> </div> </th>
+</tr>
+
+<tr>
+<td> 
+<h3> Lessons 1 - 2 (Types of CSS Styles) </h3>
+<img src="1.png" alt="1" height="150" width="200"> 
+<img src="2.png" alt="2" height="150" width="200"> 
+<img src="3.png" alt="3" height="150" width="200"> 
+</td> </tr>
+
+<tr> <td>
+<h3> Lessons 3-5 (Selectors, Div and Span, Links) </h3>
+<img src="4.jpg" alt="4" height="150" width="200"> 
+<img src="5.jpg" alt="5" height="150" width="200"> 
+<img src="6.jpg" alt="6" height="150" width="200"> <br> <br> <br>
+<img src="7.jpg" alt="7" height="150" width="200"> 
+<img src="8.jpg" alt="8" height="150" width="200"> 
+<img src="9.jpg" alt="9" height="150" width="200">
+</td> </tr>
+
+<tr>
+<td> 
+<h3> Lessons 6-7 (Formatting) </h3>
+<p> <font size="3"> • present in many of the given examples from earlier. </font> </p>
+<img src="8.jpg" alt="8" height="150" width="200"> 
+<img src="10.jpg" alt="10" height="150" width="200"> 
+<img src="11.JPG" alt="11" height="150" width="200"> 
+</td> </tr>
+</table>
+
+<h3> Venture more! </h3>
+<table align="center">
+<th> <a href="quarter two.html"> <img src="iris.jpg" alt="iris" height="150" width="150"> </a> </th>
+<th> <a href="activities2.html"> <img src="artemis.jpg" alt="artemis" height="150" width="150"> </a> </th>
+<th> <a href="browser outputs2.html"> <img src="kayla.jpg" alt="kayla" height="150" width="150"> </a> </th>
+<th> <a href="reflection2.html"> <img src="polites.jpg" alt="polites" height="150" width="150"> </a> </th>
+</table>
+
+</font>
+</body>
+</html>

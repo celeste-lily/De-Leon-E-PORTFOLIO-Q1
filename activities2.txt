@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head> <title> Activities </title>
+
+<style>
+
+body {
+  background-image: url('starry sky.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.audio {
+    text-align: center;
+  }
+
+.intrams {
+    text-align: right;
+  }
+
+</style>
+
+</head>
+
+<body align="center">
+<font face="Georgia" color="Midnight">
+<table border="1" align="center" style="width:55%;">
+<tr>
+<th> <h1> School Activities and Events! <h1> </th> </tr>
+
+<tr>
+<th> While you scroll through this page, listen to this music! 
+<p> <font size="2"> (credit: Legendary from EPIC the Musical, by Jorge-Rivera Herrans, Miguel Veloso, and the Cast of EPIC)
+<div class="audio">
+<audio controls>
+<source src="Legendary.mp3" type="audio/mpeg">
+</audio> </div> </th>
+</tr>
+
+<tr align="justify">
+<td> 
+<ul> 
+<li> Intramurals </li>
+<ul type="circle"> <li> This video was taken during the <br> opening of  intramurals, the video showing <br> the lighting of the torch, officially starting <br> this year's intrams. </li> 
+<li> <font size="2"> credits to: Sofie Mercado - 9 Family for the image </font> </li>
+</ul>
+<div class="intrams">
+<video width="320" height="240" controls>
+  <source src="intrams.mp4" type="video/mp4">
+</video>
+</div>
+</td> </tr>
+
+<tr align="justify">
+<td> 
+<ul> 
+<li> Teachers' Day </li>
+<ul type="circle"> <li> 9-Family's Teachers' Day celebration with some of our teachers! </li> 
+</ul>
+<img src="teachers day.JPG" alt="teachers'day" height="150" width="200" align="right"> 
+</td> </tr>
+
+
+<tr align="justify">
+<td> 
+<ul> 
+<li> Suspension at School (again) </li>
+<ul type="circle"> <li> Due to upcoming typhoon, school was suspended for the day. </li> 
+<li> <font size="2"> credits to: Sofie Mercado - 9 Family for the image </font> </li>
+</ul>
+<img src="suspension part 2.JPG" alt="suspension" height="150" width="200" align="right"> 
+</td> </tr>
+
+<tr align="justify">
+<td> 
+<ul> 
+<li> Historical Icon Preparations </li>
+<ul type="circle"> <li> One of many, many photos of the creation <br> our historical icon.</li> 
+</ul>
+<img src="histo icon making.JPG" alt="preparations" height="150" width="200" align="right"> 
+</td> </tr>
+
+<tr align="justify">
+<td> 
+<ul> 
+<li> Book Parade </li>
+<ul type="circle"> <li> In commemoration for our English month, <br> we dressed up as our favorite book characters. </li> 
+<li> <font size="2"> Yours truly was dressed as Circe from the Odyssey and The Book of Circe. </font> </li>
+</ul>
+<img src="book parade.JPG" alt="book parade" height="150" width="200" align="right"> 
+</td> </tr>
+
+<tr align="justify">
+<td> 
+<ul> 
+<li> Historical Icon </li>
+<ul type="circle"> <li> The day of the presentation of our historical icon, <br> Rosa Parks finally arrived. <br> This is a picture of our section <br> gathered around in support of our icon, Dewi Nuqui. </li> 
+</ul>
+<img src="histo icon.JPG" alt="historical icon" height="150" width="200" align="right"> 
+</td> </tr>
+
+<tr align="justify">
+<td> 
+<ul> 
+<li> Cha Cha Day </li>
+<ul type="circle"> <li> A picture of our class <br> before performing cha cha for MAPEH.  </li> 
+</ul>
+<img src="cha cha day.JPG" alt="cha cha day" height="150" width="200" align="right"> 
+</td> </tr>
+
+<tr align="justify">
+<td> 
+<ul> 
+<li> Cluster Meet </li>
+<ul type="circle"> <li> Representing LPSci's swim team.  </li> 
+<li> <font size="2"> ft. my teammate, Zoe Rios from 8 - Connection </font> </li>
+</ul>
+<img src="cluster meet.JPG" alt="cluster meet" height="150" width="200" align="right"> 
+</td> </tr>
+
+<tr align="justify">
+<td> 
+<ul> 
+<li> VPop Practice </li>
+<ul type="circle"> <li> A series of photos from our several VPop practices!  </li> 
+</ul>
+<img src="classroom vpop prac.JPG" alt="classroom vpop" height="150" width="200" align="right"> 
+
+<img src="after vpop practice.JPG" alt="after practice" height="150" width="200" align="right"> 
+</td> </tr> 
+
+<tr>
+<td align="center">
+<h3> And this is merely a <i> few </i> of our precious memories from this quarter, <br> as there are many more that would never fit in this entire page <br> and memories uncaptured by a camera. </h3> </td> </tr>
+
+</table> 
+
+<h3> Venture more! </h3>
+<table align="center">
+<th> <a href="quarter two.html"> <img src="iris.jpg" alt="iris" height="150" width="150"> </a> </th>
+<th> <a href="activities2.html"> <img src="artemis.jpg" alt="artemis" height="150" width="150"> </a> </th>
+<th> <a href="browser outputs2.html"> <img src="kayla.jpg" alt="kayla" height="150" width="150"> </a> </th>
+<th> <a href="reflection2.html"> <img src="polites.jpg" alt="polites" height="150" width="150"> </a> </th>
+</table>
+
+</font>
+</body>
+
+</html>
