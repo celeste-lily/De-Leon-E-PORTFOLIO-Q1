@@ -10,12 +10,11 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
-</style> </head>
-
+</style>
 
 <font face="Georgia" color="Midnight" size="4">
 
-<h1> <font face="Lucida Handwriting"> MY E-PORTFOLIO </font> </h1>
+<h1> <font face="Lucida Handwriting"> MY E-PORTFOLIO - CHAPTER ONE </font> </h1>
 
 <p> <font size="2" color="DarkSlateBlue"> <b> ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ </b> </font> </p>
 <h3> Hi! Welcome to My Webpage! </h3>
@@ -28,7 +27,7 @@ body {
 <p> <font size="2" color="DarkSlateBlue"> <b> ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ </b> </font> </p>
 <br>
 <br>
-<h3>  Navigate your way through here! </h3>
+<h3>  Navigate your way through here!  </h3>
 <table align="center">
 <th> <a href="index.html"> <img src="hestia.jpg" alt="hestia.jpg" height="150" width="150"> </a> </th>
 <th> <a href="About Me.html"> <img src="water nya chibi.jpg" alt="water nya chibi drawing" height="150" width="150"> </a> </th>
@@ -36,6 +35,23 @@ body {
 <th> <a href="Browser and Notepad Outputs.html"> <img src="athena chibi.jpg" alt="athena chibi drawing" height="150" width="150"> </a> </th>
 <th> <a href="Reflection.html"> <img src="bianca chibi.jpg" alt="bianca chibi drawing" height="150" width="150"> </a> </th>
 </table>
+
+<br>
+<p> <font size="2" color="DarkSlateBlue"> <b> ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ </b> </font> </p>
+<br>
+
+<h3> Check out our other pages! </h3>
+
+<table align="center">
+<th> <a href="index.html"> <img src="sora.JPG" alt="sora" height="150" width="150"> </a> </th>
+<th> <a href="quarter two.html"> <img src="aeolus.JPG"" alt="aeolus" height="150" width="150"> </a> </th>
+<th> <a href=> <img src="coming soon.JPG" alt="coming soon" height="150" width="150"> </a> </th>
+<th> <a href=> <img src="coming soon.JPG" alt="coming soon" height="150" width="150"> </a> </th>
+</table>
+
+
+
+
 
 </font>
 </body>
