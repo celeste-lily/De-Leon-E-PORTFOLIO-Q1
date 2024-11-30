@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head> <title> Second Quarter </title>
+
+<style>
+body {
+  background-image: url('sky.JPG');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+div.textbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: dashed black;
+  opacity: 0.86;
+}
+
+</style>
+
+</head>
+
+<body align="center">
+<font face="Georgia" color="Midnight" size="4">
+<div class="textbox">
+<h1> <font face="Lucida Handwriting"> MY E-PORTFOLIO - CHAPTER TWO </font> </h1>
+<h3> Oh Hi! </h3> 
+<img src="winion.PNG" alt="art by micrsy on youtube!" height="150" width="150"> <br>
+<p> I see someone found the next chapter. <br>
+I guess this is your little update on how I've been <br>
+and if I've improved in any way in this subject. <br> <br>
+So I'll stop stalling now, and I'll let your venture through <br>
+and judge, this quarter of my 9th grade life. </p> <br> 
+
+<h3> Start your adventure here! </h3>
+<table align="center">
+<th> <a href="quarter two.html"> <img src="iris.jpg" alt="iris" height="150" width="150"> </a> </th>
+<th> <a href="activities2.html"> <img src="artemis.jpg" alt="artemis" height="150" width="150"> </a> </th>
+<th> <a href="browser outputs2.html"> <img src="kayla.jpg" alt="kayla" height="150" width="150"> </a> </th>
+<th> <a href="reflection2.html"> <img src="polites.jpg" alt="polites" height="150" width="150"> </a> </th>
+</table>
+<br> <p> <font size="2" color="DarkSlateBlue"> <b> ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ </b> </font> </p> <br>
+<h3> Check out our other pages! </h3>
+
+<table align="center">
+<th> <a href="index.html"> <img src="sora.jpg" alt="sora" height="150" width="150"> </a> </th>
+<th> <a href="quarter two.html"> <img src="aeolus.jpg" alt="aeolus" height="150" width="150"> </a> </th>
+<th> <a href="> <img src="coming soon.jpg" alt="coming soon" height="150" width="150"> </a> </th>
+<th> <a href=> <img src="coming soon.jpg" alt="coming soon" height="150" width="150"> </a> </th>
+</table>
+
+</div>
+
+
+
+</body>
+<html>
