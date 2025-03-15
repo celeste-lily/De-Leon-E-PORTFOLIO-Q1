@@ -12,6 +12,14 @@ body {
 }
 </style>
 
+<div class="w3-sidebar" style="width:25%">
+  <a href="index.html"> <img src="hestia.jpg" alt="hestia.jpg" height="150" width="150">
+  <a href="About Me.html"> <img src="water nya chibi.jpg" alt="water nya chibi drawing" height="150" width="150"> </a>
+ <a href="Activities.html"> <img src="annabeth chibi.jpg" alt="annabeth chibi drawing" height="150" width="150"> </a>
+   <a href="Browser and Notepad Outputs.html"> <img src="athena chibi.jpg" alt="athena chibi drawing" height="150" width="150"> </a>
+    <a href="Browser and Notepad Outputs.html"> <img src="athena chibi.jpg" alt="athena chibi drawing" height="150" width="150"> </a>
+</div>
+
 <font face="Georgia" color="White" size="4">
 
 <h1> <font face="Lucida Handwriting"> MY E-PORTFOLIO - CHAPTER ONE </font> </h1>
