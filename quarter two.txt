@@ -10,12 +10,7 @@ body {
   background-size: cover;
 }
 
-div.textbox {
-  margin: 30px;
-  background-color: #ffffff;
-  border: dashed black;
-  opacity: 0.86;
-}
+
 
 </style>
 
