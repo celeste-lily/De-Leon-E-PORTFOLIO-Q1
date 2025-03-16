@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head> <title> Browser Outputs </title>
+
+<style type="text/css">
+
+body {
+  background-image: url('greece.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.audio {
+    text-align: center;
+  }
+
+
+</style>
+
+</head>
+
+<body align="center">
+<font face="Georgia" color="Midnight" size="4">
+<table border="1" align="center" bgcolor="#a8d6be" style="width:55%;">
+<tr>
+<th> <h1> <font face="Lucida Handwriting"> Browser Outputs! </font> <h1> </th> </tr>
+
+<tr>
+<th> While you scroll through this page, listen to this music! 
+<p> <font size="2"> (credit: We'll Be Fine from EPIC the Musical, by Jorge Rivera-Herrans and Anna Lea)
+<div class="audio">
+<audio controls>
+<source src="We'll be fine.mp3" type="audio/mpeg">
+</audio> </div> </th>
+</tr>
+
+<tr> <td> 
+<h3> Lesson 1 and 2 </h3>
+<p> <font size="2"> • the example shown here is a confirm box and an if-else statement </font> </p>
+
+<button onclick="myFunction()"> Click! </button>
+
+<p id="snowman"></p>
+
+<script>
+function myFunction() {
+  var txt;
+  if (confirm("Do you wanna built a snowman!")) {
+    txt = "Come on let's go and play!! :DD";
+  } else {
+    txt = " I never see you anymore! (◞‸ ◟)";
+  }
+  document.getElementById("snowman").innerHTML = txt;
+}
+</script>
+
+<br>
+<br>
+<img src="snowman.PNG" alt="snowman" height="200" width="300"> 
+
+</td> </tr>
+
+<tr> <td> 
+<h3> Lesson 3 </h3>
+<p> <font size="2"> • switch statement </font> </p>
+
+<script type="text/javascript">
+function goddess()
+{ var book=document.greek.goddesses.value
+switch (book)
+{case "1": alert("Athena is the goddess of wisdom, war, and more")
+break
+case "2": alert("Artemis is the goddess of the hunt, the moon, and more")
+break
+case "3": alert("Aphrodite is the goddess of beauty, love and more")
+break
+default: alert("undetermined")}}
+</script>
+
+<form name="greek">
+<select name="goddesses">
+<option value="1">Athena</option>
+<option value="2"> Artemis
+</option>
+<option value="3">Aphrodite</option>
+</select>
+<input type="button" name="combo"
+value="Learn more?" onClick="goddess()">
+</form>
+
+<br>
+<br>
+<img src="switch.PNG" alt="snowman" height="200" width="300"> 
+
+<tr> <td> 
+<h3> Lesson 4 </h3>
+<p> <font size="2"> • for loop </font> </p>
+
+<script type="text/javascript">
+var x;
+for (x=4;x<=10;x++)
+{
+document.write (++x)
+document.write("<br/>");
+}
+document.write ("Whoa!!");
+</script>
+<br>
+<br>
+<img src="whoa.PNG" alt="snowman" height="200" width="300"> 
+</table>
+<p> <font size="2"> <b> ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ </b> </font> </p>
+<h3>  Navigate your way through here!  </h3>
+<table align="center">
+<th> <a href="qtr4.html"> <img src="pen.jpg" alt="pen" height="150" width="150"> </a> </th>
+<th> <a href="act4.html"> <img src="circe.jpg" alt="circe" height="150" width="150"> </a> </th>
+<th> <a href="outputs.html"> <img src="tel.jpg" alt="tel" height="150" width="150"> </a> </th>
+<th> <a href="mulan.html"> <img src="jason.jpg" alt="jason" height="150" width="150"> </a> </th>
+</table>
+</body>
+</html>
