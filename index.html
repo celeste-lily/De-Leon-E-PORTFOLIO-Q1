@@ -11,76 +11,72 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
-.sidenav {
+
+.sidebar {
   height: 100%;
-  width: 100px;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #799bf6;
-  overflow-x: hidden;
-  padding-top: 20px;
-}
-
-.sidenav a {
-  padding: 6px 8px 6px 16px;
-  text-decoration: none;
-  font-size: 25px;
-  color: #799bf6;
-  display: block;
-}
-
-.sidenav a:hover {
-  color: #799bf6;
-}
-
-.main {
-  margin-left: 100px; /* Same as the width of the sidenav */
-  font-size: 28px; /* Increased text to enable scrolling */
-  padding: 0px 10px;
-}
-
-.sidenav {
-  height: 100%;
-  width: 160px;
+  width: 0;
   position: fixed;
   z-index: 1;
   top: 0;
   left: 0;
   background-color: #111;
   overflow-x: hidden;
-  padding-top: 20px;
+  transition: 0.5s;
+  padding-top: 60px;
 }
 
-.sidenav a {
-  padding: 6px 8px 6px 16px;
+.sidebar a {
+  padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 25px;
-  color: #799bf6;
+  color: #818181;
   display: block;
+  transition: 0.3s;
 }
 
-.sidenav a:hover {
-  color: #799bf6;
+.sidebar a:hover {
+  color: #f1f1f1;
 }
 
-.main {
-  margin-left: 160px; /* Same as the width of the sidenav */
-  font-size: 28px; /* Increased text to enable scrolling */
-  padding: 0px 10px;
+.sidebar .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
 }
 
+.openbtn {
+  font-size: 20px;
+  cursor: pointer;
+  background-color: #111;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+}
+
+.openbtn:hover {
+  background-color: #444;
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
 @media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
 }
+
  
 
 </style>
- <!-- Side navigation -->
-<div class="sidenav">
-<a href="index.html">  <img src="sora.jpg" alt="sora" height="90" width="90" align="center">  </a>
+ 
+<div id="mySidebar" class="sidebar">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+  <a href="#">About</a>
   <a href="#">Services</a>
   <a href="#">Clients</a>
   <a href="#">Contact</a>
@@ -103,7 +99,6 @@ function closeNav() {
   document.getElementById("main").style.marginLeft= "0";
 }
 </script>
-
   
 <font face="Georgia" color="White" size="4">
 
