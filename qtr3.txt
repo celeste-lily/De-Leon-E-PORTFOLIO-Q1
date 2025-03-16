@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+
+<head> <title> Quarter 3 </title> </head>
+
+<body style="background-color:black;">
+
+<button type="button" onclick="alert('Oops sorry! It seems like this page as been lost to the blackhole! Go and find another one that hasn't been lost yet!')"> 🕳️  </button>
+
+</body>
+
+</html>
