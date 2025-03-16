@@ -1,5 +1,6 @@
 <html>
 <head> <title> About Me! </title> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <body align="center">
 <font face="Georgia" color="Midnight">
@@ -13,6 +14,95 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+  .sidebar {
+  height: 100%;
+  width:0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #7982f6;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidebar a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidebar a:hover {
+  color: #f1f1f1;
+}
+
+.sidebar .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.openbtn {
+  font-size: 20px;
+  cursor: pointer;
+  background-color: #7982f6;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+}
+
+.openbtn:hover {
+  background-color: #7982f6;
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+}
+
+
+@media screen and (max-height: 450px) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
+}
+
+ 
+
+</style>
+ 
+<div id="mySidebar" class="sidebar">
+ <h4> <font color="White"> ◯ ☽ ◑ ● ◐ ❨ ◯  </font> </h4>
+  <h1> <font color="White">  Menu </font> </h1>
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+<a href="index.html"> Quarter 1 ✴︎  </a>
+ <a href="quarter two.html"> Quarter 2 ☁︎ </a>
+  <a href="qtr3.html"> Quarter 3 🛰 </a>
+  <a href="qtr4.html">Quarter 4 ⛧</a>
+</div>
+
+<div id="main">
+  <button class="openbtn" onclick="openNav()"> ☰ Explore </button>  
+</div>
+
+<script>
+function openNav() {
+  document.getElementById("mySidebar").style.width = "250px";
+  document.getElementById("main").style.marginLeft = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidebar").style.width = "0";
+  document.getElementById("main").style.marginLeft= "0";
+}
+</script>
+
+
 </style> </head>
 
 <table border="1" bgcolor="SkyBlue" align="center" style="width:75%">
